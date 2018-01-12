@@ -4,6 +4,8 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 
 Deploy it on your Android and enjoy!
 
+![](./screenshot.png)
+
 ## What did I learn?
 This project is focused on learning to code the scripts that bring everything to life. Skills include:
 
