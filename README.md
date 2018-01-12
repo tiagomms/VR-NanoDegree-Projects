@@ -1,5 +1,9 @@
 # Udacity VR Developer Nanodegree: Udacity Carnival 
-A Google Cardboard Experience for Android
+This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017). 
+
+A Google Cardboard Experience for Android - Deploy it and enjoy!
+
+![](./screenshot.png)
 
 ## Project Overview
 The goal was to customize the Udacity Carnival project and to fix bugs using
