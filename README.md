@@ -2,6 +2,8 @@
 
 This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017). 
 
+![](./screenshot.png)
+
 ### Project Perks
 - Custom assets, textures and sounds from the unity store and other places.
 - Bonus: sounds of a static TV and urban city - they have been manipulated to be heard in the 3D space (to check it out, change the camera to be near the windows facing the street or in front of the TV).
