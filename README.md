@@ -24,9 +24,9 @@ Contains:
 - Develop locomotion and object interactivity for Google Cardboard
 
 ### Projects
-1- Carnival, 
-2- Build an Apartment,
-3- Maze
+1. Carnival
+2. Build an Apartment
+3. Maze
 
 ## Term 2 - VR Design (Google Cardboard)
 ### Goals
@@ -37,8 +37,8 @@ Contains:
 - Study the state-of-the-art in VR
 
 ### Projects
-1- Puzzler,
-2- Night at the Museum
+1. Puzzler
+2. Night at the Museum
 
 ## Term 3 - VR High Immersion Developer Program (HTC Vive)
 (separate repos)
@@ -51,6 +51,6 @@ Contains:
 - Go Beyond your comfort zone and develop your own VR Experience
 
 ### Projects
-1- Rule Goldberg
-2- Performance Bounceback
-3- Capstone Project: Dark\|/Light VR
+1. [Rule Goldberg](https://github.com/tiagomms/Udacity_RuleGoldbergVR)
+2. [Performance Bounceback](https://github.com/tiagomms/Udacity_PerformanceBouncebackVR)
+3. [Capstone Project: Dark\|/Light VR](https://github.com/tiagomms/DarkLight_VR)
