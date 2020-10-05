@@ -1,4 +1,9 @@
 # Night at the Museum – VR in Education
+Link for write-up: https://discussions.udacity.com/t/night-at-the-museum-write-up-tiago-silva/634006
+Platforms: Unity 2017 2.0 and Google SDK 1.70
+
+**(You can read the full project description below)**
+
 As part of the coursework for Udacity’s VR Developer Nanodegree, I designed, user tested and iterated a mobile VR experience called **Night at the Museum**. The goal of this project was to develop a VR exhibition about how VR could impact a specific industry. The industry that I have chosen was Education because I am interested in how VR might change the way people learn. This experience is for Android users, and it was developed using Unity 2017 2.0 and Google SDK 1.70.
 
 ## Introduction
@@ -38,6 +43,7 @@ VR experience: Little
 Quote: At school it is impossible to do things that are either too expensive to try out or are too dangerous.
 > *I wish to study medicine in the future to become a surgeon. Or maybe a physicist. But it is hard to know what I will choose. School will not let me go to CERN or to a hospital seeing a crazy surgery like Grey’s Anatomy. Not seeing how these places work, makes it is hard for me to make a decision.*
 
+![Personas](./README_images/personas.png)
 **Joan**
 
 Age: 37
@@ -50,7 +56,7 @@ Quote: As technology evolves it gets harder to keep student focused in classes
 
 In terms of environment, I have chosen a Showroom from the asset store. From that moment, I began sketching possible UI interactions with the start menu and to play/show information on the walls, as you can see below. 
 
-![uploaded sketches]()
+![sketches](./README_images/sketches.png)
 > Due to time constraints, I ended up not implementing the info button interface, restart menu, and youtube video uploads.
 
 ### Game iterations and User Testing
@@ -62,7 +68,7 @@ I user tested each project iteration on a different person and I asked them ques
 
 Because of the performance, I had to change the lighting and textures that came with Showroom package. From the first to the second iteration I changed the textures for optimal mobile performance. However, I still had problems with the lighting scheme (which was in realtime), and it is very costly in terms of performance. It also did not look as nice as the first iteration. So, from the second to the third iteration I created and uploaded a lightmap of the environment beforehand and things started to run smoothly and with a nice look and feeling. The only downside is the application is heavier now, but most of the “heavy computations” are made while loading.
 
-![photo of the iterations]()
+![Comparison between iterations](./README_images/comparing_iterations.png)
 > Differences between each iteration: the first one [very slow] on top to the last. 
 
 #### User Test 1: Showroom appearance and movement with ground raycasting
